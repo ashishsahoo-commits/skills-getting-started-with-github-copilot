@@ -72,7 +72,7 @@ activities = {
         },
         "Debate Team": {
             "description": "Develop public speaking and argumentation skills",
-            "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+            "schedule": "Thursdays, 3:10 PM - 5:00 PM",
             "max_participants": 16,
             "participants": []
         }
